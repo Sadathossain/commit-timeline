@@ -1,0 +1,505 @@
+{
+  "timeline": {
+    "headline": "log",
+    "type": "default",
+    "startDate": "2020",
+    "text": "<i><span class=\"c1\">Designed</span> by <span class=\"c2\">nightink</span></i>",
+    "date": [
+      {
+        "headline": "Sadat Hossain Removed log file :x:",
+        "startDate": "2020,09,11,09,01,03",
+        "message": "Removed log file :x:"
+      },
+      {
+        "headline": "Sadat Hossain Updated all other dependencies :+1:",
+        "startDate": "2020,07,29,14,19,41",
+        "message": "Updated all other dependencies :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Updated all other dependencies except MajorCores(3) :construction:",
+        "startDate": "2020,07,29,14,17,15",
+        "message": "Updated all other dependencies except MajorCores(3) :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Updated all other dependencies except Majors(9) :ambulance:",
+        "startDate": "2020,07,29,14,13,08",
+        "message": "Updated all other dependencies except Majors(9) :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Show with only when content_type=playlist :rose:",
+        "startDate": "2019,11,26,01,43,45",
+        "message": "Show with only when content_type=playlist :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Mostly comments and typos :x:",
+        "startDate": "2019,11,26,01,36,08",
+        "message": "Mostly comments and typos :x:"
+      },
+      {
+        "headline": "Sadat Hossain Update react reactn react-router-dom :v:",
+        "startDate": "2019,11,26,00,53,59",
+        "message": "Update react reactn react-router-dom :v:"
+      },
+      {
+        "headline": "Sadat Hossain Fix safari fetch problem :flex:",
+        "startDate": "2019,11,26,00,53,08",
+        "message": "Fix safari fetch problem :flex:"
+      },
+      {
+        "headline": "Sadat Hossain 1.1.0-beta",
+        "startDate": "2019,11,24,09,42,28",
+        "message": "1.1.0-beta"
+      },
+      {
+        "headline": "Sadat Hossain Merge branch 'cms' into 'beta_pipeline'",
+        "startDate": "2019,11,24,09,38,26",
+        "message": "Merge branch 'cms' into 'beta_pipeline'"
+      },
+      {
+        "headline": "Sadat Hossain CMS beta 0.0.1 :v:",
+        "startDate": "2019,11,24,09,31,59",
+        "message": "CMS beta 0.0.1 :v:"
+      },
+      {
+        "headline": "Sadat Hossain cms edition initialized :v:",
+        "startDate": "2019,11,04,15,47,27",
+        "message": "cms edition initialized :v:"
+      },
+      {
+        "headline": "Sadat Hossain Removed last remaining 'api/playlists' :x:",
+        "startDate": "2019,11,02,17,57,04",
+        "message": "Removed last remaining 'api/playlists' :x:"
+      },
+      {
+        "headline": "Sadat Hossain PlayerHook merged on Latest :rose:",
+        "startDate": "2019,10,31,10,52,20",
+        "message": "PlayerHook merged on Latest :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Search fixed missing character :mag:",
+        "startDate": "2019,10,30,17,12,18",
+        "message": "Search fixed missing character :mag:"
+      },
+      {
+        "headline": "Sadat Hossain Live stream url changed :zzz:",
+        "startDate": "2019,10,30,16,05,43",
+        "message": "Live stream url changed :zzz:"
+      },
+      {
+        "headline": "Sadat Hossain PlayingFrom adopted new api changes to fix queue top image :rose:",
+        "startDate": "2019,10,28,12,56,14",
+        "message": "PlayingFrom adopted new api changes to fix queue top image :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Firebase updated to production ready version 7.2.2 :fire:",
+        "startDate": "2019,10,28,12,44,46",
+        "message": "Firebase updated to production ready version 7.2.2 :fire:"
+      },
+      {
+        "headline": "Sadat Hossain :fire:analytics with CC intermediate build :poop:",
+        "startDate": "2019,10,28,09,35,11",
+        "message": ":fire:analytics with CC intermediate build :poop:"
+      },
+      {
+        "headline": "Sadat Hossain Firebase core n analytics 7.2.1 :fire:",
+        "startDate": "2019,10,21,15,31,15",
+        "message": "Firebase core n analytics 7.2.1 :fire:"
+      },
+      {
+        "headline": "Sadat Hossain Fix Artist of the week :computer:",
+        "startDate": "2019,10,21,13,21,10",
+        "message": "Fix Artist of the week :computer:"
+      },
+      {
+        "headline": "Sadat Hossain Moods n Lifestyle playlist fixed :sleepy:",
+        "startDate": "2019,10,21,12,55,15",
+        "message": "Moods n Lifestyle playlist fixed :sleepy:"
+      },
+      {
+        "headline": "Sadat Hossain Profile Update adopted mostly app behaviour :rose:",
+        "startDate": "2019,10,21,10,38,12",
+        "message": "Profile Update adopted mostly app behaviour :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Share adopted app behavior :rose:",
+        "startDate": "2019,10,20,09,39,20",
+        "message": "Share adopted app behavior :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Elastic Search adopted :mag:",
+        "startDate": "2019,10,20,08,54,42",
+        "message": "Elastic Search adopted :mag:"
+      },
+      {
+        "headline": "Sadat Hossain Remove redundent postData :x:",
+        "startDate": "2019,10,17,22,19,02",
+        "message": "Remove redundent postData :x:"
+      },
+      {
+        "headline": "Sadat Hossain Call playlistdetails Post on CardList :eyes:",
+        "startDate": "2019,10,16,12,12,57",
+        "message": "Call playlistdetails Post on CardList :eyes:"
+      },
+      {
+        "headline": "Sadat Hossain No ads on 1089 :weary:",
+        "startDate": "2019,10,05,09,03,39",
+        "message": "No ads on 1089 :weary:"
+      },
+      {
+        "headline": "Sadat Hossain Testing dynamic siteID :fu:",
+        "startDate": "2019,10,05,09,00,15",
+        "message": "Testing dynamic siteID :fu:"
+      },
+      {
+        "headline": "Sadat Hossain xman moved to public for non HTTPS host :x:",
+        "startDate": "2019,10,03,04,32,35",
+        "message": "xman moved to public for non HTTPS host :x:"
+      },
+      {
+        "headline": "Sadat Hossain Merge branch 'beta_pipeline' of https://gitlab.com/absshovon/ir-webplayer into beta_pipeline",
+        "startDate": "2019,10,03,04,26,10",
+        "message": "Merge branch 'beta_pipeline' of https://gitlab.com/absshovon/ir-webplayer into beta_pipeline"
+      },
+      {
+        "headline": "Sadat Hossain yarn cache cleaned :rose:",
+        "startDate": "2019,10,03,04,22,22",
+        "message": "yarn cache cleaned :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Instreamatic Audio Ad on plalistId 1818 :flex:",
+        "startDate": "2019,10,03,04,15,11",
+        "message": "Instreamatic Audio Ad on plalistId 1818 :flex:"
+      },
+      {
+        "headline": "Sadat Hossain Signup F/E n B/E validation added :construction:",
+        "startDate": "2019,09,06,14,17,28",
+        "message": "Signup F/E n B/E validation added :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Succesful login to home :+1:",
+        "startDate": "2019,09,03,03,59,34",
+        "message": "Succesful login to home :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Share track and playlist fixed image also :v:",
+        "startDate": "2019,09,01,02,43,49",
+        "message": "Share track and playlist fixed image also :v:"
+      },
+      {
+        "headline": "Sadat Hossain Merge remote-tracking branch 'origin/shovon-modal_fix' into beta_pipeline",
+        "startDate": "2019,08,29,19,52,54",
+        "message": "Merge remote-tracking branch 'origin/shovon-modal_fix' into beta_pipeline"
+      },
+      {
+        "headline": "Sadat Hossain First play live :banana:",
+        "startDate": "2019,08,29,19,43,19",
+        "message": "First play live :banana:"
+      },
+      {
+        "headline": "Sadat Hossain playingFromId added TODO hasLike :v:",
+        "startDate": "2019,08,29,19,35,20",
+        "message": "playingFromId added TODO hasLike :v:"
+      },
+      {
+        "headline": "Sadat Hossain playerQ share title n sub :warning: :x: TODO",
+        "startDate": "2019,08,29,06,43,13",
+        "message": "playerQ share title n sub :warning: :x: TODO"
+      },
+      {
+        "headline": "Sadat Hossain irhomev8 :checkered_flag:",
+        "startDate": "2019,08,29,06,38,02",
+        "message": "irhomev8 :checkered_flag:"
+      },
+      {
+        "headline": "Sadat Hossain Redirect for other than BD :crossed_flags:",
+        "startDate": "2019,08,29,06,10,55",
+        "message": "Redirect for other than BD :crossed_flags:"
+      },
+      {
+        "headline": "Sadat Hossain Public IP determined :rose:",
+        "startDate": "2019,08,28,01,53,58",
+        "message": "Public IP determined :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Determine user ip :guitar:",
+        "startDate": "2019,08,24,15,54,33",
+        "message": "Determine user ip :guitar:"
+      },
+      {
+        "headline": "Sadat Hossain PlayerQ top info from playlist :x:",
+        "startDate": "2019,08,24,14,35,44",
+        "message": "PlayerQ top info from playlist :x:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.5",
+        "startDate": "2019,08,16,04,55,45",
+        "message": "1.0.0-beta.5"
+      },
+      {
+        "headline": "Sadat Hossain Fix error on Player :+1:",
+        "startDate": "2019,08,16,04,55,34",
+        "message": "Fix error on Player :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Merge PQ :v:",
+        "startDate": "2019,08,16,04,47,55",
+        "message": "Merge PQ :v:"
+      },
+      {
+        "headline": "Sadat Hossain Queue current track animation :smirk:",
+        "startDate": "2019,08,10,04,32,57",
+        "message": "Queue current track animation :smirk:"
+      },
+      {
+        "headline": "Sadat Hossain PQ introduced :herb:",
+        "startDate": "2019,08,08,17,31,28",
+        "message": "PQ introduced :herb:"
+      },
+      {
+        "headline": "Sadat Hossain Stateless ListItem :herb:",
+        "startDate": "2019,08,06,07,46,03",
+        "message": "Stateless ListItem :herb:"
+      },
+      {
+        "headline": "Sadat Hossain PlayerQueue inroduction :rose:",
+        "startDate": "2019,08,06,06,34,12",
+        "message": "PlayerQueue inroduction :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Set  queue length 1 on playSingle :barber:",
+        "startDate": "2019,08,05,16,59,35",
+        "message": "Set  queue length 1 on playSingle :barber:"
+      },
+      {
+        "headline": "Sadat Hossain Disable equalizer :x:",
+        "startDate": "2019,08,05,14,54,53",
+        "message": "Disable equalizer :x:"
+      },
+      {
+        "headline": "Sadat Hossain disable down arroe base64 :x:",
+        "startDate": "2019,08,04,23,20,39",
+        "message": "disable down arroe base64 :x:"
+      },
+      {
+        "headline": "Sadat Hossain Search artist redirection :dog:",
+        "startDate": "2019,08,04,23,04,18",
+        "message": "Search artist redirection :dog:"
+      },
+      {
+        "headline": "Sadat Hossain Progress bar disabled on Live :x:",
+        "startDate": "2019,08,04,10,33,23",
+        "message": "Progress bar disabled on Live :x:"
+      },
+      {
+        "headline": "Sadat Hossain Track progress and sound trigger added :herb:",
+        "startDate": "2019,08,04,10,01,13",
+        "message": "Track progress and sound trigger added :herb:"
+      },
+      {
+        "headline": "Sadat Hossain Discover limit to 8 n LOAD MORE integrated :rose:",
+        "startDate": "2019,08,03,17,03,42",
+        "message": "Discover limit to 8 n LOAD MORE integrated :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Trying google login :herb:",
+        "startDate": "2019,08,03,15,49,17",
+        "message": "Trying google login :herb:"
+      },
+      {
+        "headline": "Sadat Hossain revert last one :eyes:",
+        "startDate": "2019,07,31,23,34,57",
+        "message": "revert last one :eyes:"
+      },
+      {
+        "headline": "Sadat Hossain Trying Google signin :barber:",
+        "startDate": "2019,07,31,22,49,06",
+        "message": "Trying Google signin :barber:"
+      },
+      {
+        "headline": "Sadat Hossain Finalize Facebook Login :tea:",
+        "startDate": "2019,07,31,20,16,25",
+        "message": "Finalize Facebook Login :tea:"
+      },
+      {
+        "headline": "Sadat Hossain Changed URI :worry:",
+        "startDate": "2019,07,31,19,53,38",
+        "message": "Changed URI :worry:"
+      },
+      {
+        "headline": "Sadat Hossain Try setting global log in status :flex:",
+        "startDate": "2019,07,31,19,47,50",
+        "message": "Try setting global log in status :flex:"
+      },
+      {
+        "headline": "Sadat Hossain Passing redirectUri :worry:",
+        "startDate": "2019,07,31,19,38,41",
+        "message": "Passing redirectUri :worry:"
+      },
+      {
+        "headline": "Sadat Hossain discover card limit raised to 12 :earth_asia:",
+        "startDate": "2019,07,25,14,55,00",
+        "message": "discover card limit raised to 12 :earth_asia:"
+      },
+      {
+        "headline": "Sadat Hossain Search res focus change on any route change :mag:",
+        "startDate": "2019,07,25,14,11,52",
+        "message": "Search res focus change on any route change :mag:"
+      },
+      {
+        "headline": "Sadat Hossain Change modes with moods :wink:",
+        "startDate": "2019,07,23,14,32,15",
+        "message": "Change modes with moods :wink:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.4",
+        "startDate": "2019,07,22,13,43,17",
+        "message": "1.0.0-beta.4"
+      },
+      {
+        "headline": "Sadat Hossain Search integrated :mag:",
+        "startDate": "2019,07,22,13,42,20",
+        "message": "Search integrated :mag:"
+      },
+      {
+        "headline": "Sadat Hossain Integrate dynamic live cover 4m backend :rainbow:",
+        "startDate": "2019,07,19,03,16,33",
+        "message": "Integrate dynamic live cover 4m backend :rainbow:"
+      },
+      {
+        "headline": "Sadat Hossain Last 10 commits added :sweat_drops:",
+        "startDate": "2019,07,17,07,48,23",
+        "message": "Last 10 commits added :sweat_drops:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.3",
+        "startDate": "2019,07,17,07,06,35",
+        "message": "1.0.0-beta.3"
+      },
+      {
+        "headline": "Sadat Hossain Merge branch 'beta_pipeline' of https://gitlab.com/absshovon/ir-webplayer into HEAD",
+        "startDate": "2019,07,17,06,31,09",
+        "message": "Merge branch 'beta_pipeline' of https://gitlab.com/absshovon/ir-webplayer into HEAD"
+      },
+      {
+        "headline": "Sadat Hossain Live duration and commit hash introduced :triumph:",
+        "startDate": "2019,07,17,06,23,27",
+        "message": "Live duration and commit hash introduced :triumph:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.2.3",
+        "startDate": "2019,07,15,03,14,16",
+        "message": "1.0.0-beta.2.3"
+      },
+      {
+        "headline": "Sadat Hossain Share integrated :open_hands:",
+        "startDate": "2019,07,15,03,13,06",
+        "message": "Share integrated :open_hands:"
+      },
+      {
+        "headline": "Sadat Hossain Fix SingleCard styles :ambulance:",
+        "startDate": "2019,07,14,11,26,36",
+        "message": "Fix SingleCard styles :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Share introduced :moneybag:",
+        "startDate": "2019,07,14,10,27,31",
+        "message": "Share introduced :moneybag:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.2.2",
+        "startDate": "2019,07,14,05,41,00",
+        "message": "1.0.0-beta.2.2"
+      },
+      {
+        "headline": "Sadat Hossain Adopted app ui :lollipop:",
+        "startDate": "2019,07,14,05,32,00",
+        "message": "Adopted app ui :lollipop:"
+      },
+      {
+        "headline": "Sadat Hossain checkLogin enforced :cop:",
+        "startDate": "2019,07,14,00,33,22",
+        "message": "checkLogin enforced :cop:"
+      },
+      {
+        "headline": "Sadat Hossain Login binded for incognito mode :eyes:",
+        "startDate": "2019,07,14,00,24,23",
+        "message": "Login binded for incognito mode :eyes:"
+      },
+      {
+        "headline": "Sadat Hossain Fix login redirection :fire:",
+        "startDate": "2019,07,13,19,23,26",
+        "message": "Fix login redirection :fire:"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.2.1",
+        "startDate": "2019,07,13,12,28,25",
+        "message": "1.0.0-beta.2.1"
+      },
+      {
+        "headline": "Sadat Hossain isMounted React pattern has been introduced to avoid memory leaks and PlayerHooks has been introduced for more stable player performance :notes:",
+        "startDate": "2019,07,13,12,27,40",
+        "message": "isMounted React pattern has been introduced to avoid memory leaks and PlayerHooks has been introduced for more stable player performance :notes:"
+      },
+      {
+        "headline": "Sadat Hossain Introduced global errors and checked boundaries for multi-instance rendering  :cocktail:",
+        "startDate": "2019,07,10,08,05,13",
+        "message": "Introduced global errors and checked boundaries for multi-instance rendering  :cocktail:"
+      },
+      {
+        "headline": "Sadat Hossain Fix parity between dev and prod",
+        "startDate": "2019,07,10,06,35,30",
+        "message": "Fix parity between dev and prod"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.2",
+        "startDate": "2019,07,09,12,57,04",
+        "message": "1.0.0-beta.2"
+      },
+      {
+        "headline": "Sadat Hossain Login cross check implemented",
+        "startDate": "2019,07,09,04,15,24",
+        "message": "Login cross check implemented"
+      },
+      {
+        "headline": "Sadat Hossain Ensured login consistency :muscle:",
+        "startDate": "2019,07,09,02,10,26",
+        "message": "Ensured login consistency :muscle:"
+      },
+      {
+        "headline": "Sadat Hossain Fix google signin error",
+        "startDate": "2019,07,09,01,54,36",
+        "message": "Fix google signin error"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.1",
+        "startDate": "2019,07,08,17,38,12",
+        "message": "1.0.0-beta.1"
+      },
+      {
+        "headline": "Sadat Hossain Fix warnings and artist single, hook signup, forget pass and forminputs to get one step closer for getting rid of :sleepy: :bridge_at_night:",
+        "startDate": "2019,07,08,17,37,53",
+        "message": "Fix warnings and artist single, hook signup, forget pass and forminputs to get one step closer for getting rid of :sleepy: :bridge_at_night:"
+      },
+      {
+        "headline": "Sadat Hossain environment variable exposed",
+        "startDate": "2019,07,08,00,37,06",
+        "message": "environment variable exposed"
+      },
+      {
+        "headline": "Sadat Hossain 1.0.0-beta.0",
+        "startDate": "2019,07,06,13,26,36",
+        "message": "1.0.0-beta.0"
+      },
+      {
+        "headline": "Sadat Hossain Fix warning of using selected on Signup",
+        "startDate": "2019,07,06,13,23,49",
+        "message": "Fix warning of using selected on Signup"
+      },
+      {
+        "headline": "Sadat Hossain Initial commit for beta",
+        "startDate": "2019,07,06,11,31,43",
+        "message": "Initial commit for beta"
+      }
+    ]
+  }
+}
