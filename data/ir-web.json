@@ -2,9 +2,199 @@
   "timeline": {
     "headline": "log",
     "type": "default",
-    "startDate": "2020",
-    "text": "<i><span class=\"c1\">Designed</span> by <span class=\"c2\">nightink</span></i>",
+    "startDate": "2021",
+    "text": "<i><span class=\"c1\">Designed</span> by <span class=\"c2\">Sadat Hossain</span></i>",
     "date": [
+      {
+        "headline": "Sadat Hossain Content Loader added :zap:",
+        "startDate": "2021,03,02,07,17,29",
+        "message": "Content Loader added :zap:"
+      },
+      {
+        "headline": "Sadat Hossain All pkgs have been updated :+1:",
+        "startDate": "2021,03,02,03,13,18",
+        "message": "All pkgs have been updated :+1:"
+      },
+      {
+        "headline": "Sadat Hossain yarn upgrade all except majors :x:",
+        "startDate": "2021,03,02,03,09,00",
+        "message": "yarn upgrade all except majors :x:"
+      },
+      {
+        "headline": "Sadat Hossain Added react-content-loader :+1:",
+        "startDate": "2021,03,02,03,05,29",
+        "message": "Added react-content-loader :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Sharing link open toast :rose:",
+        "startDate": "2021,03,01,17,51,13",
+        "message": "Sharing link open toast :rose:"
+      },
+      {
+        "headline": "Sadat Hossain fullscreen error https://github.com/sindresorhus/screenfull.js/issues/122 :xxx:",
+        "startDate": "2021,03,01,17,47,44",
+        "message": "fullscreen error https://github.com/sindresorhus/screenfull.js/issues/122 :xxx:"
+      },
+      {
+        "headline": "Sadat Hossain Lyrics formated :rose:",
+        "startDate": "2021,03,01,15,57,07",
+        "message": "Lyrics formated :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Artist name bug 4m Search single track :ambulance:",
+        "startDate": "2021,03,01,15,04,26",
+        "message": "Artist name bug 4m Search single track :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Moved to new playlist API :car:",
+        "startDate": "2021,03,01,14,57,59",
+        "message": "Moved to new playlist API :car:"
+      },
+      {
+        "headline": "Sadat Hossain browserslist@latest updated :+1:",
+        "startDate": "2021,03,01,14,30,54",
+        "message": "browserslist@latest updated :+1:"
+      },
+      {
+        "headline": "Sadat Hossain automatic playback has been added for video :v:",
+        "startDate": "2021,03,01,13,23,06",
+        "message": "automatic playback has been added for video :v:"
+      },
+      {
+        "headline": "Sadat Hossain Video ad from playlist API :+1:",
+        "startDate": "2021,03,01,13,18,31",
+        "message": "Video ad from playlist API :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Always render an audio element for Main Player :x:",
+        "startDate": "2021,02,28,23,51,27",
+        "message": "Always render an audio element for Main Player :x:"
+      },
+      {
+        "headline": "Sadat Hossain Adopt API \"ads/playlistdetails_ad\" :+1:",
+        "startDate": "2021,02,28,23,33,22",
+        "message": "Adopt API \"ads/playlistdetails_ad\" :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Share redirection all to home except genre :under-construction:",
+        "startDate": "2021,02,28,21,27,01",
+        "message": "Share redirection all to home except genre :under-construction:"
+      },
+      {
+        "headline": "Sadat Hossain Share V2.0.0 initialized :+1:",
+        "startDate": "2021,02,24,00,08,19",
+        "message": "Share V2.0.0 initialized :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Distinctive live playback state :ambulance:",
+        "startDate": "2021,02,04,06,34,55",
+        "message": "Distinctive live playback state :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Added Content Type Queue Availability :+1:",
+        "startDate": "2020,11,23,11,01,33",
+        "message": "Added Content Type Queue Availability :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix playing album from My album :construction:",
+        "startDate": "2020,11,23,10,19,20",
+        "message": "Fix playing album from My album :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Fix Single track queue bug :ambulance:",
+        "startDate": "2020,11,23,02,39,10",
+        "message": "Fix Single track queue bug :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain v1.1.0",
+        "startDate": "2020,11,17,05,47,18",
+        "message": "v1.1.0"
+      },
+      {
+        "headline": "Sadat Hossain Revert back to run-time base url :loop:",
+        "startDate": "2020,11,17,05,46,53",
+        "message": "Revert back to run-time base url :loop:"
+      },
+      {
+        "headline": "Sadat Hossain Lyrics added :+1:",
+        "startDate": "2020,11,05,14,01,22",
+        "message": "Lyrics added :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix Search :ambulance:",
+        "startDate": "2020,10,27,18,16,13",
+        "message": "Fix Search :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Unifying PlayerHook :v:",
+        "startDate": "2020,10,27,04,52,18",
+        "message": "Unifying PlayerHook :v:"
+      },
+      {
+        "headline": "Sadat Hossain Fix My Collection Section :construction:",
+        "startDate": "2020,10,27,03,54,05",
+        "message": "Fix My Collection Section :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Removing Card Limit :x:",
+        "startDate": "2020,10,27,03,02,15",
+        "message": "Removing Card Limit :x:"
+      },
+      {
+        "headline": "Sadat Hossain Change Library APIs :+1:",
+        "startDate": "2020,10,27,03,00,49",
+        "message": "Change Library APIs :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix Listening History data missing issue :+1:",
+        "startDate": "2020,10,27,03,00,22",
+        "message": "Fix Listening History data missing issue :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Removed Log :x:",
+        "startDate": "2020,10,26,18,59,46",
+        "message": "Removed Log :x:"
+      },
+      {
+        "headline": "Sadat Hossain Log removed :x:",
+        "startDate": "2020,10,26,18,57,49",
+        "message": "Log removed :x:"
+      },
+      {
+        "headline": "Sadat Hossain Unified Live :rose:",
+        "startDate": "2020,10,26,18,56,25",
+        "message": "Unified Live :rose:"
+      },
+      {
+        "headline": "Sadat Hossain Added Genre Components :+1:",
+        "startDate": "2020,10,26,18,55,57",
+        "message": "Added Genre Components :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix URL for genre details :construction:",
+        "startDate": "2020,10,26,08,55,37",
+        "message": "Fix URL for genre details :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Artist pageArtist Page navigation Added :+1:",
+        "startDate": "2020,10,26,07,26,44",
+        "message": "Artist pageArtist Page navigation Added :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fixed Bangla top Radio Slider Image :construction:",
+        "startDate": "2020,10,25,23,21,03",
+        "message": "Fixed Bangla top Radio Slider Image :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Removed Time Schedule table :x:",
+        "startDate": "2020,10,21,16,20,51",
+        "message": "Removed Time Schedule table :x:"
+      },
+      {
+        "headline": "Sadat Hossain Changed EndPoint :+1:",
+        "startDate": "2020,10,21,16,15,27",
+        "message": "Changed EndPoint :+1:"
+      },
       {
         "headline": "Sadat Hossain Removed log file :x:",
         "startDate": "2020,09,11,09,01,03",
