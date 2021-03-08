@@ -6,6 +6,201 @@
     "text": "<i><span class=\"c1\">Designed</span> by <span class=\"c2\">Sadat Hossain</span></i>",
     "date": [
       {
+        "headline": "Sadat Hossain GitScrum TASK-381 :v:",
+        "startDate": "2020,06,10,13,56,48",
+        "message": "GitScrum TASK-381 :v:"
+      },
+      {
+        "headline": "Sadat Hossain GitScrum TASK-364 :v:",
+        "startDate": "2020,06,04,14,53,07",
+        "message": "GitScrum TASK-364 :v:"
+      },
+      {
+        "headline": "Sadat Hossain iOS RC1282(1) :+1:",
+        "startDate": "2020,05,31,14,44,05",
+        "message": "iOS RC1282(1) :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fixed iOS background skip issue n remote actions[TK-357] :ambulance:",
+        "startDate": "2020,05,31,14,40,18",
+        "message": "Fixed iOS background skip issue n remote actions[TK-357] :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain WIP: handleShare from background :v:",
+        "startDate": "2020,05,09,14,31,45",
+        "message": "WIP: handleShare from background :v:"
+      },
+      {
+        "headline": "Sadat Hossain Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint04-2020 :construction:",
+        "startDate": "2020,05,09,14,05,19",
+        "message": "Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint04-2020 :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Share deep links are backward compatiable :rose:",
+        "startDate": "2020,04,30,05,13,16",
+        "message": "Share deep links are backward compatiable :rose:"
+      },
+      {
+        "headline": "Sadat Hossain [ios] Base code for this sprint :v:",
+        "startDate": "2020,04,29,21,43,54",
+        "message": "[ios] Base code for this sprint :v:"
+      },
+      {
+        "headline": "Sadat Hossain Fix duplicate uuids :ambulance:",
+        "startDate": "2020,04,29,17,29,00",
+        "message": "Fix duplicate uuids :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint04-2020",
+        "startDate": "2020,04,29,17,22,02",
+        "message": "Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint04-2020"
+      },
+      {
+        "headline": "Sadat Hossain [ios] Bump version 1.2.81 :+1:",
+        "startDate": "2020,04,12,22,04,05",
+        "message": "[ios] Bump version 1.2.81 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain excluded last patch :x:",
+        "startDate": "2020,04,12,21,44,23",
+        "message": "excluded last patch :x:"
+      },
+      {
+        "headline": "Sadat Hossain Patched pkgs :rotating_light:",
+        "startDate": "2020,04,12,21,43,58",
+        "message": "Patched pkgs :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain [ios] change scheme to release :mega:",
+        "startDate": "2020,04,12,21,43,33",
+        "message": "[ios] change scheme to release :mega:"
+      },
+      {
+        "headline": "Sadat Hossain [ios] link track player to xcode :car:",
+        "startDate": "2020,04,12,21,42,18",
+        "message": "[ios] link track player to xcode :car:"
+      },
+      {
+        "headline": "Sadat Hossain Fix duplicate uuids :ambulance:",
+        "startDate": "2020,04,12,21,40,23",
+        "message": "Fix duplicate uuids :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain remove duplicate stylesheet declaration :rose:",
+        "startDate": "2020,04,12,21,39,42",
+        "message": "remove duplicate stylesheet declaration :rose:"
+      },
+      {
+        "headline": "Sadat Hossain postinstall patch pkg install :mega:",
+        "startDate": "2020,04,12,21,38,54",
+        "message": "postinstall patch pkg install :mega:"
+      },
+      {
+        "headline": "Sadat Hossain Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint03-2020",
+        "startDate": "2020,04,12,19,03,19",
+        "message": "Merge remote-tracking branch 'origin/tarmim_player_redefine' into sadat-sprint03-2020"
+      },
+      {
+        "headline": "Sadat Hossain Added NoInternet state with reachability test of http://trace.imaginerad.io :mega:",
+        "startDate": "2020,04,08,03,10,27",
+        "message": "Added NoInternet state with reachability test of http://trace.imaginerad.io :mega:"
+      },
+      {
+        "headline": "Sadat Hossain Upgrade  packages :+1:",
+        "startDate": "2020,04,08,03,06,42",
+        "message": "Upgrade  packages :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Remove uri prefix :x:",
+        "startDate": "2020,04,07,00,30,44",
+        "message": "Remove uri prefix :x:"
+      },
+      {
+        "headline": "Sadat Hossain Accomodate deep link for react-navigation@V5 :+1:",
+        "startDate": "2020,04,07,00,29,59",
+        "message": "Accomodate deep link for react-navigation@V5 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Testing release build for iOS :+1:",
+        "startDate": "2020,04,07,00,27,55",
+        "message": "Testing release build for iOS :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix content loader for song type :rotating_light:",
+        "startDate": "2020,04,07,00,26,51",
+        "message": "Fix content loader for song type :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Hide tabbar :rotating_light:",
+        "startDate": "2020,04,06,07,51,24",
+        "message": "Hide tabbar :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Used test server :hammer:",
+        "startDate": "2020,04,06,07,50,51",
+        "message": "Used test server :hammer:"
+      },
+      {
+        "headline": "Sadat Hossain yarn lock added :warning:",
+        "startDate": "2020,04,01,14,51,35",
+        "message": "yarn lock added :warning:"
+      },
+      {
+        "headline": "Sadat Hossain Merge branch 'sadat-sprint03-2020' of gitlab.com:imagineradioio/imagineradio into HEAD",
+        "startDate": "2020,04,01,14,49,06",
+        "message": "Merge branch 'sadat-sprint03-2020' of gitlab.com:imagineradioio/imagineradio into HEAD"
+      },
+      {
+        "headline": "Sadat Hossain WIP RNAV5 Migration :construction:",
+        "startDate": "2020,04,01,14,42,43",
+        "message": "WIP RNAV5 Migration :construction:"
+      },
+      {
+        "headline": "Sadat Hossain Fix err in irstore :rotating_light:",
+        "startDate": "2020,04,01,14,41,31",
+        "message": "Fix err in irstore :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Fix FBSignin :rotating_light:",
+        "startDate": "2020,04,01,14,41,05",
+        "message": "Fix FBSignin :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Fix Intro :rotating_light:",
+        "startDate": "2020,04,01,14,39,58",
+        "message": "Fix Intro :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Upgrade to RNAV5 :+1:",
+        "startDate": "2020,04,01,14,37,35",
+        "message": "Upgrade to RNAV5 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Fix artistDetails style :rotating_light:",
+        "startDate": "2020,04,01,14,35,24",
+        "message": "Fix artistDetails style :rotating_light:"
+      },
+      {
+        "headline": "Sadat Hossain Patch for ArtistDetails play button crash issue targeted for RC112 :+1:",
+        "startDate": "2020,03,25,08,09,54",
+        "message": "Patch for ArtistDetails play button crash issue targeted for RC112 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Patch for playrate issue targeted for RC112 :+1:",
+        "startDate": "2020,03,17,15,53,09",
+        "message": "Patch for playrate issue targeted for RC112 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Patch for ad filler issue targeted for RC112 :+1:",
+        "startDate": "2020,03,17,08,39,05",
+        "message": "Patch for ad filler issue targeted for RC112 :+1:"
+      },
+      {
+        "headline": "Sadat Hossain moving to react nav 5 :x:",
+        "startDate": "2020,03,10,14,57,03",
+        "message": "moving to react nav 5 :x:"
+      },
+      {
         "headline": "Sadat Hossain Moved to text-ticker :+1:",
         "startDate": "2020,02,27,11,40,56",
         "message": "Moved to text-ticker :+1:"
@@ -56,6 +251,16 @@
         "message": "GitScrum_TASK-277"
       },
       {
+        "headline": "Sadat Hossain 1.2.76(1) :+1:",
+        "startDate": "2020,02,05,15,16,13",
+        "message": "1.2.76(1) :+1:"
+      },
+      {
+        "headline": "Tarmim Hoque Shuvo pass correct id in __handleAfterAdPress",
+        "startDate": "2020,02,02,22,54,01",
+        "message": "pass correct id in __handleAfterAdPress"
+      },
+      {
         "headline": "Sadat Hossain packages removed :bangbangbang:",
         "startDate": "2020,02,04,14,29,48",
         "message": "packages removed :bangbangbang:"
@@ -64,6 +269,16 @@
         "headline": "Sadat Hossain Patched @react-native-firebase/in-app-messaging to 19.0.3 :v:",
         "startDate": "2020,02,04,03,25,24",
         "message": "Patched @react-native-firebase/in-app-messaging to 19.0.3 :v:"
+      },
+      {
+        "headline": "Sadat Hossain 1.2.75(1) :+1:",
+        "startDate": "2020,01,30,19,29,22",
+        "message": "1.2.75(1) :+1:"
+      },
+      {
+        "headline": "Sadat Hossain Added ignoreSilentSwitch :microphone:",
+        "startDate": "2020,01,30,19,25,51",
+        "message": "Added ignoreSilentSwitch :microphone:"
       },
       {
         "headline": "Sadat Hossain env.js to imaginerad.io :bangbangbang:",
@@ -596,6 +811,21 @@
         "message": "dismentle :bangbang:"
       },
       {
+        "headline": "Sadat Hossain Skiplock alert message hotfix :ambulance:",
+        "startDate": "2019,06,18,16,16,17",
+        "message": "Skiplock alert message hotfix :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Remove redundant handlePress from discovery and http headet fixed on genreDetails :ambulance:",
+        "startDate": "2019,05,31,12,11,15",
+        "message": "Remove redundant handlePress from discovery and http headet fixed on genreDetails :ambulance:"
+      },
+      {
+        "headline": "Sadat Hossain Google admob phase 1",
+        "startDate": "2019,04,15,13,18,47",
+        "message": "Google admob phase 1"
+      },
+      {
         "headline": "Sadat Hossain irstore fix for failover undefined api",
         "startDate": "2019,01,28,16,04,26",
         "message": "irstore fix for failover undefined api"
@@ -701,6 +931,31 @@
         "message": "Fix search"
       },
       {
+        "headline": "Sadat Hossain Adopt changes from brtmp-track",
+        "startDate": "2018,11,17,18,04,27",
+        "message": "Adopt changes from brtmp-track"
+      },
+      {
+        "headline": "Sadat Hossain Adopt changes from brtmp-track",
+        "startDate": "2018,11,17,17,46,53",
+        "message": "Adopt changes from brtmp-track"
+      },
+      {
+        "headline": "Sadat Hossain Player revives the last playing condition from STATE_NONE",
+        "startDate": "2018,11,11,14,02,59",
+        "message": "Player revives the last playing condition from STATE_NONE"
+      },
+      {
+        "headline": "Sadat Hossain Android build fixed & compact capabilities added for notification",
+        "startDate": "2018,11,06,22,50,22",
+        "message": "Android build fixed & compact capabilities added for notification"
+      },
+      {
+        "headline": "Sadat Hossain Xcode 10 build fixed for RN 0.57.0",
+        "startDate": "2018,10,30,23,19,53",
+        "message": "Xcode 10 build fixed for RN 0.57.0"
+      },
+      {
         "headline": "Sadat Hossain RN 0.57.0 android build fixed",
         "startDate": "2018,10,30,22,14,59",
         "message": "RN 0.57.0 android build fixed"
@@ -776,6 +1031,31 @@
         "message": "Like Button style fix for Home and Bangla"
       },
       {
+        "headline": "Sadat Hossain Upgraded nativebase and bumped babel preset for react native to 5.0.2",
+        "startDate": "2018,09,03,04,53,54",
+        "message": "Upgraded nativebase and bumped babel preset for react native to 5.0.2"
+      },
+      {
+        "headline": "Sadat Hossain Bump Google play service version to 16.0.0",
+        "startDate": "2018,09,03,04,26,23",
+        "message": "Bump Google play service version to 16.0.0"
+      },
+      {
+        "headline": "Sadat Hossain Remove duplicate compile entry from build.gradle",
+        "startDate": "2018,09,03,04,22,48",
+        "message": "Remove duplicate compile entry from build.gradle"
+      },
+      {
+        "headline": "Sadat Hossain Upgraded babel dev dependencies",
+        "startDate": "2018,09,03,04,07,39",
+        "message": "Upgraded babel dev dependencies"
+      },
+      {
+        "headline": "Sadat Hossain Upgraded to RN 0.56.0",
+        "startDate": "2018,09,03,04,04,38",
+        "message": "Upgraded to RN 0.56.0"
+      },
+      {
         "headline": "Sadat Hossain Data fetch exception added on HomeScreen",
         "startDate": "2018,09,03,02,40,38",
         "message": "Data fetch exception added on HomeScreen"
@@ -804,6 +1084,21 @@
         "headline": "Sadat Hossain MyAlbum, MyArtist like/unlike list update without loading",
         "startDate": "2018,08,31,00,34,24",
         "message": "MyAlbum, MyArtist like/unlike list update without loading"
+      },
+      {
+        "headline": "Sadat Hossain Kept ref for Current Playing Album, Artist & Playlist",
+        "startDate": "2018,08,27,23,05,54",
+        "message": "Kept ref for Current Playing Album, Artist & Playlist"
+      },
+      {
+        "headline": "Sadat Hossain Changed UI for AlbumDetail & ArtistDetail",
+        "startDate": "2018,08,27,22,42,23",
+        "message": "Changed UI for AlbumDetail & ArtistDetail"
+      },
+      {
+        "headline": "Sadat Hossain Fix Like/Unlike on MyAlbum & MyArtist",
+        "startDate": "2018,08,27,22,34,50",
+        "message": "Fix Like/Unlike on MyAlbum & MyArtist"
       },
       {
         "headline": "Sadat Hossain Search Like Unlike activated",
@@ -844,6 +1139,16 @@
         "headline": "Sadat Hossain Changed Library screen 2nd layer to white",
         "startDate": "2018,07,30,22,11,12",
         "message": "Changed Library screen 2nd layer to white"
+      },
+      {
+        "headline": "Sadat Hossain Admob Integrated with admobUtils",
+        "startDate": "2018,07,13,02,23,09",
+        "message": "Admob Integrated with admobUtils"
+      },
+      {
+        "headline": "Sadat Hossain Admob integrated",
+        "startDate": "2018,06,10,04,36,39",
+        "message": "Admob integrated"
       },
       {
         "headline": "Sadat Hossain Onesignal push notification initialized",
