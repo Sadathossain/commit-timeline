@@ -22,11 +22,22 @@
   <meta property="twitter:image" content="https://raw.githubusercontent.com/Sadathossain/commit-timeline/master/static/img/metaLogo.jpg">
 
   <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" sizes="any">
-  <link rel="stylesheet" type="text/css" href="static/css/timeline.css">
-  <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
-  <script id="jquery_183" type="text/javascript" class="library" src="static/js/jquery-1.8.3.min.js"></script>
-  <script type="text/javascript" src="static/js/timeline.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
+  <script>
+    $(document).ready(function() {
+      createStoryJS({
+        type:		'timeline',
+        width:		'100%',
+        height:		window.innerHeight,
+        source:		'data/ir-web.json',
+        embed_id:	'timeline',
+        start_at_end: true
+      });
+    });
+  </script>
+
 </head>
 
 <body>
@@ -35,15 +46,5 @@
     <!-- Timeline.js will genereate the markup here -->
   </div>
 
-  <script type="text/javascript">
-
-    (function($) {
-
-      var timeline = new VMM.Timeline();
-      // load data.json
-      timeline.init('data/ir-web.json');
-    })(jQuery);
-
-  </script>
 </body>
 </html>
