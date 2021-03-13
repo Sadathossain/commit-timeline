@@ -3,8 +3,8 @@
   <head>
     <!--Import Google Icon Font-->
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+     <!--Import materialize.css-->
+     <link type="text/css" rel="stylesheet" href="static/css/materialize.min.css"  media="screen,projection"/>
     <!-- FAVICON -->
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" sizes="any">
     <!--Let browser know website is optimized for mobile-->
@@ -33,27 +33,43 @@
   </head>
 
   <body>
-    <div class="progress">
-      <div class="indeterminate" style="width: 80%"></div>
+    <div id="p" class="progress">
+      <div class="indeterminate" style="width: 100%"></div>
   </div>
-    <h1 class="center-align white-text">Redirecting...</h1>
-    <h2 class="center-align white-text" id="myTargetElement"></h2>
+
+  <div class="row center-align">
+    <a class="waves-effect transparent link" href="https://sadathossain.github.io/commit-timeline/imagineradio"><i class="material-icons left">phone_android</i>ImagineRadio-app</a>
+    <a class="waves-effect transparent link" href="https://sadathossain.github.io/commit-timeline/imagineradio-web"><i class="material-icons left">personal_video</i>ImagineRadio-web</a>
+  </div>
+
+<iframe class="frame" src="https://sadathossain.github.io/commit-timeline/imagineradio">
+</iframe>
+<iframe class="frame" src="https://sadathossain.github.io/commit-timeline/imagineradio-web"></iframe>
+
+    <!-- <h5 class="center-align white-text">Redirecting in [<span class="center-align purple-text text-accent-3" id="c"></span>]s</h5>
     <div class="center-align">
-      <img class="responsive-img" src="static/img/logo.gif" alt="Sadat Hossain">
+      <a class="waves-effect transparent link"><i class="material-icons left">phone_android</i>ImagineRadio-app</a>
+    <a class="waves-effect transparent link"><i class="material-icons left">personal_video</i>ImagineRadio-web</a>
     </div>
+    <div class="center-align logo">
+      <img class="responsive-img" src="static/img/logo.gif" alt="Sadat Hossain">
+    </div> -->
+
     <!--Footer starts-->
     <!--Footer ends-->
     <!--Timeout script -->
     <script>
       //redirect to https://sadathossain.github.io/commit-timeline/imagineradio-web 1 seconds
-      window.setTimeout(function() {
-          window.location.href = 'https://sadathossain.github.io/commit-timeline/imagineradio-web';
-          // window.location.href = 'http://localhost:8002/imagineradio-web.html';
-      }, 1000);
+      // window.setTimeout(function() {
+      //     window.location.href = 'https://sadathossain.github.io/commit-timeline/imagineradio-web';
+      //     // window.location.href = 'http://localhost:8002/imagineradio-web.html';
+      // }, 1000);
     </script>
     <!--Timeout script ends -->
     <!--countup script-->
     <script>
+      // DELAY VALUE
+      const delay = 2500;
       var options = {
         useEasing : true,
         useGrouping : true,
@@ -62,13 +78,19 @@
         prefix : '',
         suffix : ''
       };
-      var demo = new CountUp("myTargetElement", 0, 100, 0, 2.5, options);
-      demo.start();
+      // var c = new CountUp("c", 0, 100, 0, delay/1000, options);
+      // c.start();
       </script>
     <!--countup script ends-->
     <!--Import jQuery before materialize.js-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="static/js/materialize.min.js"></script>
+    <script>
+      $(function() {
+        $("#p").show().delay(delay).fadeOut();
+      });
+    </script>
+  </body>
   </body>
 </html>

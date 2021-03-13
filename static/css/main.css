@@ -1,3 +1,22 @@
 body {
 background-color: black;
 }
+.row {
+    margin-bottom: 10px;
+}
+.link {
+    margin-left: 10%;
+    margin-right: 10%;
+    vertical-align: middle;
+}
+.progress {
+    margin: 0;
+}
+.logo {
+    padding-top: 5%;
+}
+.frame {
+    height: 99vh;
+    width: 49vw;
+    border-color: white;
+}
